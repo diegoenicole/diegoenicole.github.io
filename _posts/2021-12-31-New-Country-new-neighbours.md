@@ -2,7 +2,7 @@
 layout: post
 title:  "New Country, new neighbours"
 author: diegoenicole
-image: /assets/image/weird_bird.png
+image: /assets/images/weird_bird.png
 featured: false
 ---
 
