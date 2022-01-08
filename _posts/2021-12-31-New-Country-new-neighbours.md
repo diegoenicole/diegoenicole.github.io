@@ -2,7 +2,7 @@
 layout: post
 title:  "New Country, new neighbours"
 author: diegoenicole
-image: assets/images/WhatsApp Video 2021-12-31 at 10.43.37.mp4
+image: /assets/image/weird_bird.png
 featured: false
 ---
 
@@ -10,6 +10,6 @@ featured: false
 
 During quarantine our heroes makes the first contacs with local fauna!
 
-/assets/images/WhatsApp Video 2021-12-31 at 10.43.37.mp4
+[![](/assets/images/weird_bird.png)](/assets/images/weird_bird.mp4 "Link Title")
 
 Diego is probably responding...
