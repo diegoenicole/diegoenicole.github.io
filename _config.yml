@@ -34,13 +34,20 @@ authors:
     description: "The Dudess from Nave san Felice."
   
   diegoenicole:
-    name: DiegoENicole
-    display_name: DiegoENicole
+    name: Diego E Nicole
+    display_name: Diego E Nicole
     avatar: 'assets/images/diego_e_nicole_crowned.png'
     email: diegoenicole.australia@gmail.com
     web: https://diegoenicole.github.ai
     description: "These two guys are a single thing."
 
+  hubi:
+    name: Hubi
+    display_name: Hubi
+    avatar: 'assets/images/hubi_avatar.jpg'
+    email: 
+    web: 
+    description: "The printer guy."
 # Plugins
 plugins:
   - jekyll-paginate
