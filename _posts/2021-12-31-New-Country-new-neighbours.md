@@ -11,6 +11,6 @@ featured: false
 
 During quarantine our heroes makes the first contacs with local fauna!
 
-[![Weird bird](/assets/images/weird_bird_img.png)](/assets/images/weird_bird.mp4 "Link Title")
+{% include video.html preview_image="/assets/images/weird_bird_img.png" url='/assets/videos/weird_bird.mp4' %}
 
 Diego is probably responding...
